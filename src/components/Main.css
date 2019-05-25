@@ -1,0 +1,15 @@
+.main {
+    height: 150px;
+    background-color: burlywood;
+    color: whitesmoke;
+    margin-bottom: 15px;
+    text-align: center;
+    font-size: 30px;
+    justify-content: center;
+    align-items: center;
+}
+
+.h2 {
+    margin: 0px;
+    background-color: rgb(135, 222, 147);
+}

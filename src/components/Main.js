@@ -1,11 +1,14 @@
 import React from 'react';
+import './Main.css'
 
 function Main(){
     return (
-        <div>
-            <h2>Main section</h2>
+        <main className="main">
+            <h2 className="h2">
+                Main section
+            </h2>
             <p>Here should be some content</p>
-        </div>
+        </main>
     )
 };
 
