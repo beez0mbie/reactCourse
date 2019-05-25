@@ -1,5 +1,8 @@
 import React from 'react';
-import './Main.css'
+import MyDate from './MyDate';
+
+import './Main.css';
+
 
 function Main(){
     return (
@@ -7,7 +10,7 @@ function Main(){
             <h2 className="h2">
                 Main section
             </h2>
-            <p>Here should be some content</p>
+            <MyDate />
         </main>
     )
 };
